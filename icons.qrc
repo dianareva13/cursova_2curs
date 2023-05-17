@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/my">
+        <file>ic/2.png</file>
+        <file>ic/4.png</file>
+        <file>ic/3.png</file>
+        <file>ic/8.png</file>
+        <file>ic/7.png</file>
+        <file>ic/5.png</file>
+        <file>ic/6.png</file>
+        <file>ic/9.png</file>
+        <file>ic/10.png</file>
+        <file>ic/wallpaper1.jpg</file>
+        <file>ic/wallpaper2.jpg</file>
+        <file>ic/t3.jpg</file>
+        <file>ic/left.png</file>
+        <file>ic/right.png</file>
+        <file>ic/left2.png</file>
+        <file>ic/right2.png</file>
+        <file>ic/11.png</file>
+        <file>ic/12.png</file>
+        <file>ic/13.png</file>
+        <file>ic/14.png</file>
+        <file>ic/15.png</file>
+        <file>ic/16.png</file>
+        <file>ic/17.png</file>
+        <file>ic/18.png</file>
+        <file>ic/main.png</file>
+    </qresource>
+</RCC>

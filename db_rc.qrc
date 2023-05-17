@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/mydb">
+        <file>diary2.db</file>
+    </qresource>
+</RCC>
